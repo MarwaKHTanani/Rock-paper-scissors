@@ -10,8 +10,8 @@ playagain.addEventListener("click", restart);
 
 function restart() {
     result.innerText = "Result:"
-    computer.innerText="Your Choice";
-    player.innerText="Computer Choice";
+    computer.innerText="Computer Choice";
+    player.innerText="Your Choice";
 }
 
 
